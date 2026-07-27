@@ -1,0 +1,7 @@
+root = true
+
+# O comando abaixo seta essa configuração de identação para todos os arquivos nessa pasta.
+
+[*]
+indent_style = space
+indent_size = 2
